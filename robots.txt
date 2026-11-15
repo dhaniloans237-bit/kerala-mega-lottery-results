@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dhaniloansandservices.netlify.app/sitemap.xml
